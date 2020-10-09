@@ -27,7 +27,6 @@ Sound Drip provides music lovers with unique song recommendations based on Data 
 - [JWT](https://jwt.io/) - JSON Web Token for authorization and client side tokens for security
 - [Axios](https://github.com/axios/axios) - Third Party API Calls
 
-
 ## Authors
 
 **Role: Team Lead**
