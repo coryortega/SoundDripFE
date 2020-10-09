@@ -45,6 +45,7 @@ const hash = window.location.hash
 
 window.location.hash = "";
 
+
 export class Auth extends Component {
   componentDidMount() {
     let token = hash.access_token;
